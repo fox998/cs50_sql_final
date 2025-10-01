@@ -1,0 +1,3 @@
+DROP DATABASE IF EXISTS final;
+CREATE DATABASE final;
+USE final;
